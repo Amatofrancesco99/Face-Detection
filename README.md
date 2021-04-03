@@ -7,7 +7,7 @@ This software is designed to apply artificial intelligence to a real specific ap
 
 It would be very easy, you just have to change some parameters of the source code of this project (made with python).
 
-For this reason, maybe it would have been better if this repository's title has been something like: *"Object Detection using a Cascade Classifier"*, but the aim of this project it would have been less easier to understand (maybe too general, also if, as known, a software is not designed to solve a specific problem but for a general purpose solution to a group of problems ). 
+For this reason, maybe it would have been better if this repository's title has been something like: *"Object Detection using a Cascade Classifier"*, but the aim of this project would have been less easier to understand (maybe too general, also if, as known, a software is not designed to solve a specific problem but for a general purpose solution to a group of problems ). 
 
 **P.S:** Don't take this software as a "must"...it's a rudimental script to better understand how facial recognition works ( and how easy it can be implemented ).
 
