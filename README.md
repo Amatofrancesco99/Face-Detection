@@ -18,7 +18,7 @@ I'll then try to explain each line of the code, as better as I can, with a few c
 The algorithm implements a *Cascade Classifier*, more specifically **Haar Classifier for Object Detection** ( based on brightness characteristic of every human face; it uses only black-white images to do what I said before ) . 
 
 If you are more interested to see how this specific Classifier works, there's a **useful link**: 
-   - https://www.sciencedirect.com/topics/computer-science/classifier-cascade )
+   - https://www.sciencedirect.com/topics/computer-science/classifier-cascade
 
 ***
 
