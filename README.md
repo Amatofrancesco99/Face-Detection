@@ -3,7 +3,7 @@ This software is designed to apply artificial intelligence to a real specific ap
 
 ***
 
-*It won't be so difficult to image another application of this software, using a neural network ( in this case a **Cascade Classifier** ) which is trained to recognize other objects, different from the one that whe choose in this specific algorithm ( for example: Credit Card, QR Code, Car detection, Pedestrian detection & so on ).*
+*It won't be so difficult to image another application of this software, using a neural network ( in this case a **Cascade Classifier** ) which is trained to recognize other objects, different from the one that whe have chosen in this specific algorithm ( for example: Credit Card, QR Code, Car detection, Pedestrian detection & so on ).*
 
 It would be very easy, you just have to change some parameters of the source code of this project (made with python).
 
