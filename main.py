@@ -57,4 +57,4 @@ while True:
         cv2.destroyAllWindows()
 
 # Many other features can be added to this software, for example it can be implemented both face detection both
-# face recognition
+# face recognition, smile recognition & so on...
