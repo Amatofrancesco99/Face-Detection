@@ -20,9 +20,10 @@
 ########################################################################################################################
 # SCRIPT:
 
+#START
 import cv2
 
-# Load some pre-trained data on face "frontals" from opencv (haar cascade algorithm)
+# Load some pre-trained classifier on face "frontals" (haar cascade algorithm)
 faceCascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 # Capture video from your video-camera ( 0 stands for your default video-camera)
@@ -51,10 +52,9 @@ while True:
 
     # Wait that the "q button" on the keyboard is been pressed, to then close the detecting app
     if cv2.waitKey(1) & 0xFF == ord('q'):
-        break
         # When everything is done, release the capture
         video_capture.release()
         cv2.destroyAllWindows()
-
+        break   #END
 # Many other features can be added to this software, for example it can be implemented both face detection both
 # face recognition, smile recognition & so on...
