@@ -9,10 +9,9 @@
 
 # To download opencv see this link: https://pypi.org/project/opencv-python/
 
-
-# You can find in the same folder of this script another file, which contains the pre-trained data that I mentioned
+# You have also to download, in the same folder of this script, another file, which contains the pre-trained data that I mentioned
 # before (.xml file).
-# I've downloaded it from this link:
+# You can find what I am saying at this link (read the copyright section before downloading & using it) : 
 #      https://github.com/opencv/opencv/tree/master/data/haarcascades/haarcascade_frontalface_default.xml
 
 # You can find many other Haar Cascade data at this link... check if you're interested:
