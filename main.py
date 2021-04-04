@@ -2,7 +2,7 @@
 # @author: Amato Francesco
 ########################################################################################################################
 
-# PREVIOUS INFORMATION:
+# SOME USEFUL INFORMATION:
 
 # OPENCV is an opensource computer-vision library, provided by some people who write some useful code (for example
 # pre-trained classifiers, in this case we are going to use some pre-trained classifiers on "frontal faces")
