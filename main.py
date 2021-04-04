@@ -5,11 +5,11 @@
 # PREVIOUS INFORMATION:
 
 # OPENCV is an opensource computer-vision library, provided by some people who write some useful code (for example
-# pre-trained data, in this case we are going to use some pre-trained data on "frontal face-detection")
+# pre-trained classifiers, in this case we are going to use some pre-trained classifiers on "frontal faces")
 
 # To download opencv see this link: https://pypi.org/project/opencv-python/
 
-# You have also to download, in the same folder of this script, another file, which contains the pre-trained data that I
+# You have also to download, in the same folder of this script, another file, which contains the pre-trained classifier that I
 # mentioned before (.xml file).
 # You can find what I am saying at this link (read the copyright section before downloading & using it) : 
 #      https://github.com/opencv/opencv/tree/master/data/haarcascades/haarcascade_frontalface_default.xml
@@ -44,7 +44,7 @@ while True:
     # Now we want to put a rectangle around each face (color green in this case... change color attributes if you're
     # interested on different rectangle colour)
     for (x, y, w, h) in faces:
-        cv2.rectangle(frame, (x, y), (x+w, y+h), (0, 255, 0), 3)
+        cv2.rectangle(frame, (x, y), (x+w, y+h), (0, 255, 0), 2)
 
     # Show the result of the detection
     cv2.imshow('Detecting faces', frame)
