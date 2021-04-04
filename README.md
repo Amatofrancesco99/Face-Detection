@@ -22,6 +22,6 @@ If you are more interested to see how this specific Classifier works, there's a 
 
 ***
 
-Maybe this algorithm won't be so accurate, but it is very fast, simple both to code ( just few lines of code ) both to understand. 
+Maybe this algorithm won't be 100% accurate (there's a little margin of error), but it is very fast, simple both to code ( just few lines of code ) both to understand. 
 
 In lot cases whe should have a trade-off/compromise between two or more issues ( in this case speed vs accuracy vs semplicity... the more the software is accurate, the less "fluent" & the more complex it would be ).
