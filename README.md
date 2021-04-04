@@ -5,7 +5,9 @@ This software is designed to apply artificial intelligence to a real specific ap
 
 *It won't be so difficult to image another application of this software, using a neural network ( in this case a **Cascade Classifier** ) which is trained to recognize other objects, different from the one that whe have chosen in this specific algorithm ( for example: Credit Card, QR Code, Car detection, Pedestrian detection & so on ).*
 
-This would be very easy, you just have to change some parameters of the source code of this project (made with python).
+This would be very easy, by changing some parameters of the source code of this project (made with python).
+
+If you are more interested on last two example, see this project: https://github.com/Amatofrancesco99/Autonomous-Car-Drive ( more specifically the folder: https://github.com/Amatofrancesco99/Autonomous-Car-Drive/tree/main/Detecting%20:%20cars%20%26%20pedestrian )
 
 For the same reason, maybe it would have been better if this repository's title has been something like: *"Object Detection using a Cascade Classifier"*, but the aim of this project would have been less easier to understand (maybe too general, also if, as known, a software is not designed to solve a specific problem but for a general purpose solution to a group of problems ). 
 
