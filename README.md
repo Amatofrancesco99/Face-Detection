@@ -1,6 +1,5 @@
 # Face-Detection
 This software is designed to apply artificial intelligence to a real specific application (face-detection).
-
 ![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/80333091/113688647-ce612d00-96c9-11eb-8b8e-a4d1728cfbc4.png)
 
 ***
@@ -24,7 +23,11 @@ The algorithm implements a *Cascade Classifier*, more specifically **Haar Classi
 If you are more interested to see how this specific Classifier works, there's an **useful link**: 
    - https://www.sciencedirect.com/topics/computer-science/classifier-cascade
 
+***
+
 **VIDEO: *HOW HAAR CASCADE WORKS***
+
+(click on the image if you're interested on watching the video)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hPCTwxF0qf4/0.jpg)](https://www.youtube.com/watch?v=hPCTwxF0qf4)
 
